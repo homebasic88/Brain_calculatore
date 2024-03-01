@@ -224,3 +224,5 @@ def start():  # функция начального включения
 
 
 start()
+
+print('version 2.0')
