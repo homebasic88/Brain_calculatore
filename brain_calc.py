@@ -225,4 +225,4 @@ def start():  # функция начального включения
 
 start()
 
-print('version 2.0')
+print('version 3.0')
